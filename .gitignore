@@ -7,7 +7,10 @@
 *.so
 *.dylib
 
+
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+build-example01-Desktop_Qt_5_0_2_MinGW_32bit-Release/
+build-example01-Desktop_Qt_5_0_2_MinGW_32bit-Debug/
